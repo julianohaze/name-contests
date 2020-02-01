@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: one
+  up: false
+  created_by: 1
+
+two:
+  name: two
+  up: false
+  created_by: 1
